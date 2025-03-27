@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+
+.container-fluid>img{
+height:100px;
+width:100px
+}
